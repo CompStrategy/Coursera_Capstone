@@ -1,0 +1,51 @@
+ZIP Code	Type	County	Population	Area Code(s)		
+ZIP Code 33301	Standard	Broward	14,586	954 / 754		
+ZIP Code 33302	P.O. Box	Broward	0	954 / 754		
+ZIP Code 33303	P.O. Box	Broward	0	954 / 754		
+ZIP Code 33304	Standard	Broward	17,724	954		
+ZIP Code 33305	Standard	Broward	11,927	954		
+ZIP Code 33306	Standard	Broward	3,397	954		
+ZIP Code 33307	P.O. Box	Broward	0	954 / 754		
+ZIP Code 33308	Standard	Broward	28,217	954		
+ZIP Code 33309	Standard	Broward	33,705	954		
+ZIP Code 33310	P.O. Box	Broward	0	954 / 754		
+ZIP Code 33311	Standard	Broward	63,786	954		
+ZIP Code 33312	Standard	Broward	49,343	954		
+ZIP Code 33313	Standard	Broward	56,039	954		
+ZIP Code 33314	Standard	Broward	21,885	954		
+ZIP Code 33315	Standard	Broward	12,153	954		
+ZIP Code 33316	Standard	Broward	10,044	954 / 754		
+ZIP Code 33317	Standard	Broward	35,372	954		
+ZIP Code 33318	P.O. Box	Broward	0	954 / 754		
+ZIP Code 33319	Standard	Broward	44,420	954		
+ZIP Code 33320	P.O. Box	Broward	0	954 / 754		
+ZIP Code 33321	Standard	Broward	44,327	954		
+ZIP Code 33322	Standard	Broward	37,858	954		
+ZIP Code 33323	Standard	Broward	18,929	954		
+ZIP Code 33324	Standard	Broward	42,847	954		
+ZIP Code 33325	Standard	Broward	27,570	954		
+ZIP Code 33326	Standard	Broward	31,257	954		
+ZIP Code 33327	Standard	Broward	22,658	954		
+ZIP Code 33328	Standard	Broward	27,415	954		
+ZIP Code 33329	P.O. Box	Broward	0	954		
+ZIP Code 33330	Standard	Broward	14,107	954		
+ZIP Code 33331	Standard	Broward	23,204	954		
+ZIP Code 33332	Standard	Broward	11,199	954		
+ZIP Code 33334	Standard	Broward	28,749	954		
+ZIP Code 33335	P.O. Box	Broward	0	954 / 754		
+ZIP Code 33336	Unique	Broward	0	954		
+ZIP Code 33337	Unique	Broward	0	954		
+ZIP Code 33338	P.O. Box	Broward	0	954 / 754		
+ZIP Code 33339	P.O. Box	Broward	0	954 / 754		
+ZIP Code 33340	P.O. Box	Broward	0	954 / 754		
+ZIP Code 33345	P.O. Box	Broward	0	954 / 754		
+ZIP Code 33346	P.O. Box	Broward	0	954 / 754		
+ZIP Code 33348	P.O. Box	Broward	0	954 / 754		
+ZIP Code 33349	P.O. Box	Broward	0	954 / 754		
+ZIP Code 33351	Standard	Broward	32,890	954		
+ZIP Code 33355	P.O. Box	Broward	0	954 / 754		
+ZIP Code 33359	P.O. Box	Broward	0	954		
+ZIP Code 33388	Standard	Broward	0	954		
+ZIP Code 33394	Standard	Broward	0	954 / 754		
+ZIP Code 33394	Standard	Broward	0	954 / 754		
+						
